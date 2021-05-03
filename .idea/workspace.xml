@@ -2,13 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ede4c50-30ff-44b5-9a29-8f8b2c3296b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/react-hw-02-phonebook.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContactForm/ContactForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContactForm/ContactForm.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContactForm/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContactList/ContactItem/Contact.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContactList/ContactItem/ContactItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContactList/ContactItem/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContactList/ContactList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContactList/ContactList.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContactList/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Filter/Filter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Filter/Filter.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Filter/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +43,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1s1r3kHAD3Z05OUVLHH2xOnPSDn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,6 +53,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -40,6 +62,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Администратор\AppData\Roaming\npm\node_modules\prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\IT\SkillUp_hw\react-hw-02-phonebook\src\components\ContactList" />
+      <recent name="C:\IT\SkillUp_hw\react-hw-02-phonebook\src" />
+      <recent name="C:\IT\SkillUp_hw\react-hw-02-phonebook\src\components" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -51,11 +80,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620050739871</updated>
-      <workItem from="1620050743333" duration="1334000" />
+      <workItem from="1620050743333" duration="18933000" />
+      <workItem from="1620072399120" duration="2503000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2610" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620054087223">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="2610" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1620054087223" />
+    <state x="2536" y="244" width="672" height="677" key="run.anything.popup" timestamp="1620073339458">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="2536" y="244" width="672" height="677" key="run.anything.popup/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1620073339458" />
+    <state x="2536" y="180" width="672" height="676" key="search.everywhere.popup" timestamp="1620063910313">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="2536" y="180" width="672" height="676" key="search.everywhere.popup/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1620063910313" />
   </component>
 </project>
